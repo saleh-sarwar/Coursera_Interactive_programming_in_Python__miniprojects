@@ -7,5 +7,5 @@ Contains different games given as project in the course to practice and use the 
 
 Below each projects are briefly described.
 
-# 1) Rock-paper-scissors-lizard-Spock:
+## 1) Rock-paper-scissors-lizard-Spock:
 
