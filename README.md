@@ -1,4 +1,4 @@
-# Miniprojects of Interactive programming in Python
+# Miniprojects of Interactive Programming in Python
 * by Rice University on [coursera.org](https://www.coursera.org/learn/interactive-python-1)
 1) [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
 2) [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals)
