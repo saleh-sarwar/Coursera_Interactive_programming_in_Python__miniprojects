@@ -9,3 +9,7 @@ Below each projects are briefly described.
 
 ## 1) Rock-paper-scissors-lizard-Spock:
 Rock-paper-scissors-lizard-Spock (RPSLS) is a variant of Rock-paper-scissors that allows five choices. Each choice wins against two other choices, loses against two other choices and ties against itself. Much of RPSLS's popularity is that it has been featured in 3 episodes of the TV series "The Big Bang Theory". The Wikipedia entry for RPSLS gives the complete description of the details of the game
+
+
+## 2) Guess the number:
+One of the simplest two-player games is “Guess the number”. The first player thinks of a secret number in some known range while the second player attempts to guess the number. After each guess, the first player answers either “Higher”, “Lower” or “Correct!” depending on whether the secret number is higher, lower or equal to the guess. In this project, a simple interactive program is developed in Python where the computer will take the role of the first player while the player play as the second player.
